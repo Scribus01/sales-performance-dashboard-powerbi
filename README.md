@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Sales Performance Dashboard](ecommerce_sales_performance_Dashboard_page.jpg)
 Sales Performance Dashboard | Power BI
 
 Project Overview
