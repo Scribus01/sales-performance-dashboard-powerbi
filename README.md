@@ -175,7 +175,7 @@ Key Skills Demonstrated
 
 Dashboard Preview
 
-(ecommerce_sales_perfirmance_dashboard_page-0001.jpg)
+(ecommerce_sales_perfirmance_Dashboard_page-0001.jpg)
 
 ---
 
